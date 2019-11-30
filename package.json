@@ -1,11 +1,11 @@
 {
-  "name": "sass-dev-server",
-  "version": "0.1.7",
+  "name": "@goldhand/sass-dev-server",
+  "version": "1.0.0",
   "description": "a dev server that compile your sass files on demand, no watcher, no configuration required",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenvunz/sass-dev-server.git"
+    "url": "https://github.com/wfarley/sass-dev-server.git"
   },
   "bin": {
     "sass-dev-server": "cli.js"
@@ -13,7 +13,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Ken Vu <ken@gladeye.co.nz>",
+  "author": "Ken Vu <ken@gladeye.co.nz>, Will Farley <a.will.farley@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "bourbon": "^4.2.6",
