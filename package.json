@@ -1,6 +1,6 @@
 {
   "name": "@goldhand/sass-dev-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a dev server that compile your sass files on demand, no watcher, no configuration required",
   "main": "index.js",
   "repository": {
